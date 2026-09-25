@@ -27,7 +27,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Full Stack Web Developer, Final Year Computer Science Student  
+- :computer: I'm a Full Stack Web Developer,**Computer Science Graduate** from the University of Tunis El Manar (FST)
 - :hourglass_flowing_sand: Exploring React, Angular, Node.js, NestJS, Prisma & Databases  
 - :rocket: Always ready to collaborate on Web Development & AI projects  
 - :man_technologist: Tech enthusiast & lifelong learner  
