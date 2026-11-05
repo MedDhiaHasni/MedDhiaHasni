@@ -1,41 +1,54 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Mohamed Dhia Hasni, Full Stack Developer :computer:<br>
+  <br> I'm Mohamed Dhia Hasni, Mobile Developer 📱<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
-</h2> 
+</h2>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://nestjs.com" target="_blank"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
+<h2 align="left">🛠️ Tech Stack</h2>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+**Mobile**
 
-- :computer: I'm a Full Stack Web Developer,**Computer Science Graduate** from the University of Tunis El Manar (FST)
-- :hourglass_flowing_sand: Exploring React, Angular, Node.js, NestJS, Prisma & Databases  
-- :rocket: Always ready to collaborate on Web Development & AI projects  
-- :man_technologist: Tech enthusiast & lifelong learner  
-- :dart: Life Hack: "Consistency beats talent — keep going, no matter the obstacle"  
-- :zap: Fun fact: I love coaching and developing football strategies in my free time 🏟️
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<h2 align="left">:heart: Let's get connected:</h2>
+**Backend & CMS**
 
-[![Linkedin Badge](https://img.shields.io/badge/-MohamedDhiaHasni-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/YOUR-LINKEDIN)](https://www.linkedin.com/in/mohamed-dhiaa-hasni/) 
-[![Twitter Badge](https://img.shields.io/badge/-@MohamedDhiaHasni-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/YOUR-TWITTER)](https://x.com/HasniDhiaa) 
-[![Instagram Badge](https://img.shields.io/badge/-@MohamedDhiaHasni-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://instagram.com/YOUR-INSTAGRAM)](https://www.instagram.com/hasni_dhyaa_/) 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white&link=https://YOUR-PORTFOLIO.com)](https://my-portfolio-delta-lilac-44.vercel.app/)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
+
+**Database & Cloud**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<h2 align="left">👨🏻‍💻 About Me</h2>
+
+- 🎓 Computer Science graduate from the University of Tunis El Manar (FST)
+- 📱 I build cross-platform mobile apps with Flutter and the backends behind them
+- 🔧 Node.js REST APIs, Strapi CMS, Firebase (auth, push notifications, real-time data) and MySQL
+- 🌍 Open to mobile developer opportunities in Germany and beyond, and currently learning German 🇩🇪
+- 📚 Currently deepening my Flutter architecture, state management and testing
+- 💬 Fun fact: I love coaching and developing football strategies in my free time ⚽
+
+<h2 align="left">🌐 Languages</h2>
+
+- 🇹🇳 Arabic: Native
+- 🇫🇷 French: Advanced
+- 🇬🇧 English: Advanced
+- 🇩🇪 German: A1 (learning)
+
+<h2 align="left">🤝 Let's get connected</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-MohamedDhiaHasni-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dhiaa-hasni/)
+[![Twitter Badge](https://img.shields.io/badge/-@MohamedDhiaHasni-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://x.com/HasniDhiaa)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-delta-lilac-44.vercel.app/)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
